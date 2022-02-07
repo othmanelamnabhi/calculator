@@ -3,7 +3,7 @@
 
 On this project from the [Javascript Simplified](https://javascriptsimplified.com) course, I made a *drumroll* calculator.
 
-Made me brush up on switch statement syntax as well as getters and settrs.
+Made me brush up on switch statement syntax as well as getters and setters.
 
 
 ## Installation
